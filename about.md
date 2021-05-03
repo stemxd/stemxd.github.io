@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a Machine Learning Practicioner.
+I want to become a Data Analyst.
 
 ### More Information
+I am currently working on a football data analytics  project. To collaborate, feel free to contact me through the links given below.
 
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[my email](mailto:shubham786tembhurkar@gmail.com)
